@@ -6,14 +6,13 @@ import Image from 'next/image';
 export default function YeuEm() {
     // Thay đổi nội dung bức thư ở đây
     const letterContent = `Hôm nay là 8/3, một ngày thật đặc biệt dành cho em – người con gái anh yêu thương nhất. Anh muốn nhân dịp này để nói với em những điều từ tận đáy lòng mình.
+Gửi em chút lạc quan, không muộn phiền, chúc em ngày ngày đều là cô công chúa xinh đẹp :)). Cuộc sống của anh sẽ chẳng còn ý nghĩa nếu thiếu đi em. Em chính là ánh sáng, là niềm vui.
 
-Cảm ơn em vì đã đến bên anh, nhất là vào những lúc anh cô đơn và yếu đuối nhất. Cuộc sống của anh sẽ chẳng còn ý nghĩa nếu thiếu đi em. Em chính là ánh sáng, là niềm vui, là tất cả những gì tuyệt vời nhất mà anh may mắn có được.
-
-Bên em, anh luôn cảm thấy mình đặc biệt và trọn vẹn. Em là điều đẹp đẽ nhất mà anh từng có trong đời. Chẳng biết nói gì ngoài cảm ơn em – vì đã yêu anh, đã ở cạnh anh, đã cho anh biết thế nào là hạnh phúc thực sự.
+Bên em, anh luôn cảm thấy mình đặc biệt và trọn vẹn mỗi tội chả được bên em :)). Em là điều đẹp đẽ nhất mà anh từng có trong đời. Chẳng biết nói gì ngoài chúc em giàu ú ụ.
 
 Anh yêu em rất nhiều, mãi mãi và hơn thế nữa! 💕
 
-Chúc em ngày 8/3 vui vẻ, hạnh phúc và luôn xinh đẹp trong mắt anh! 💐❤️`
+Chúc em ngày 8/3 vui vẻ! Tặng hoa nè 💐❤️`
 
     // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
     const durationWrite = 50;
