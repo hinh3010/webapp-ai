@@ -156,7 +156,7 @@ Chúc em ngày 8/3 vui vẻ! Tặng hoa nè 💐❤️`
                             <div className="boxTitleCard"></div>
                         </div>
 
-                        <p className="des">Thư tình nè</p>
+                        <p className="des">Thư tình nè bé</p>
                     </div>
                     <div className="leftBack">
                         <Image className="artHeart" src="/yeu_em/artHeart.webp" alt="" width={200} height={200} />
