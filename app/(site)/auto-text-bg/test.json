@@ -1,0 +1,50 @@
+[
+  {
+    "English": "Hi, I’m Tom. What’s your name?",
+    "Vietnamese": "Xin chào, tôi là Tom. Tên bạn là gì?",
+    "Pronunciation": "haɪ, aɪm tɒm. wɒts jɔː neɪm?",
+    "Keywords": ["Hi", "I’m", "What’s", "name"]
+  },
+  {
+    "English": "I’m Lisa. Nice to meet you!",
+    "Vietnamese": "Tôi là Lisa. Rất vui được gặp bạn!",
+    "Pronunciation": "aɪm ˈliːsə. naɪs tuː miːt juː!",
+    "Keywords": ["I’m", "Nice", "meet", "you"]
+  },
+  {
+    "English": "Nice to meet you too! Where are you from?",
+    "Vietnamese": "Rất vui được gặp bạn! Bạn đến từ đâu?",
+    "Pronunciation": "naɪs tuː miːt juː tuː! weər ɑː juː frɒm?",
+    "Keywords": ["too", "Where", "from"]
+  },
+  {
+    "English": "I’m from Hanoi. How about you?",
+    "Vietnamese": "Tôi đến từ Hà Nội. Còn bạn thì sao?",
+    "Pronunciation": "aɪm frɒm ˈhænoʊ. haʊ əˈbaʊt juː?",
+    "Keywords": ["from", "How", "about"]
+  },
+  {
+    "English": "I’m from Ho Chi Minh City. Do you live here?",
+    "Vietnamese": "Tôi đến từ TP. Hồ Chí Minh. Bạn sống ở đây không?",
+    "Pronunciation": "aɪm frɒm hoʊ tʃiː mɪn ˈsɪti. duː juː lɪv hɪər?",
+    "Keywords": ["live", "here"]
+  },
+  {
+    "English": "Yes, I do. What about you?",
+    "Vietnamese": "Có, tôi sống ở đây. Còn bạn thì sao?",
+    "Pronunciation": "jes, aɪ duː. wɒt əˈbaʊt juː?",
+    "Keywords": ["Yes", "do", "What"]
+  },
+  {
+    "English": "No, I’m just visiting.",
+    "Vietnamese": "Không, tôi chỉ đang ghé thăm thôi.",
+    "Pronunciation": "noʊ, aɪm dʒʌst ˈvɪzɪtɪŋ.",
+    "Keywords": ["No", "just", "visiting"]
+  },
+  {
+    "English": "Oh, cool! How long are you staying?",
+    "Vietnamese": "Ồ, tuyệt! Bạn ở lại bao lâu?",
+    "Pronunciation": "oʊ, kuːl! haʊ lɒŋ ɑː juː ˈsteɪɪŋ?",
+    "Keywords": ["Oh", "cool", "How", "long", "staying"]
+  }
+]
