@@ -7,7 +7,7 @@ import EditBar from "./_components/edit-bar";
 import LeftBar from "./_components/left-bar";
 import LibraryBar from "./_components/library-bar";
 import LeftBarV2 from "./_components/left-bar-v2";
-import Canvas from "./_components/canvas-v4";
+import Canvas from "./_components/canvas";
 
 export default function Home() {
 
